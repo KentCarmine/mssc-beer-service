@@ -1,11 +1,14 @@
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\bootstrap\BeerLoader.java
-D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\MsscBeerServiceApplication.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\web\model\BeerStyleEnum.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\repositories\BeerRepository.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\web\mappers\DateMapper.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\web\controller\BeerController.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\web\mappers\BeerMapper.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\services\BeerServiceImpl.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\web\model\BeerPagedList.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\web\controller\MvcExceptionHandler.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\MsscBeerServiceApplication.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\services\BeerService.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\web\model\BeerDto.java
 D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\domain\Beer.java
-D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\web\controller\MvcExceptionHandler.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\mssc-beer-service\src\main\java\com\kentcarmine\msscbeerservice\web\controller\NotFoundException.java

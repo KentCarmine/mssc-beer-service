@@ -9,6 +9,9 @@ com\kentcarmine\msscbeerservice\domain\Beer.class
 com\kentcarmine\msscbeerservice\MsscBeerServiceApplication.class
 com\kentcarmine\msscbeerservice\web\controller\BeerController.class
 com\kentcarmine\msscbeerservice\web\model\BeerDto$BeerDtoBuilder.class
+com\kentcarmine\msscbeerservice\services\BeerService.class
+com\kentcarmine\msscbeerservice\services\BeerServiceImpl.class
 com\kentcarmine\msscbeerservice\web\mappers\BeerMapper.class
 com\kentcarmine\msscbeerservice\bootstrap\BeerLoader.class
 com\kentcarmine\msscbeerservice\web\model\BeerStyleEnum.class
+com\kentcarmine\msscbeerservice\web\controller\NotFoundException.class
